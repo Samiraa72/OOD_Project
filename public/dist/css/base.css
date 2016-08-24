@@ -1,0 +1,8 @@
+@font-face {
+    font-family: main-title;
+    src: url(../../dist/fonts/BKOODKBD.TTF);
+}
+
+body {
+    font-family: main-title;
+}
